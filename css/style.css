@@ -1,0 +1,48 @@
+body
+{
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top
+{
+    font-weight: 1000;
+    font-size: 72px;
+    font-family: the led display st;
+    border: solid black;
+    display: flex;
+    align-items: center;
+    border-radius: 10pt;
+    padding: 20pt;
+    -webkit-text-stroke: 2pt;
+    letter-spacing: 1pt;
+    background: linear-gradient(aqua, blue);
+    box-shadow: 0 20pt 20pt;
+    margin-top: 10pt;
+}
+
+hr
+{
+    width: 49%;
+}
+
+.countdown
+{
+    border: solid;
+    border-radius: 20pt;
+    padding: 20pt;
+    font-size: default;
+    border-spacing: 10pt;
+    text-transform: capitalize;
+    font-weight: 1000;
+}
+
+th
+{
+    font-weight: 1000;
+    font-size: 50pt;
+    font-family: calculator;
+}
